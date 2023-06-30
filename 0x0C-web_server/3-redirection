@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # a script that installs Nginx server and /redirect_me
 # to another page. With "301 Move Permanently" using
-# the script in "1-install_nginx_web_server"
+# the "1-install_nginx_web_server" script. 
 
 # Update the package lists for upgrades and installs the Nginx server
 sudo apt-get -y update
